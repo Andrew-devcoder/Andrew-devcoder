@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/M0nday0001">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apim0nday0001=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <img src="https://github-readme-stats.vercel.app/apim0nday0001=anuraghazra)](https://github.com/anuraghazra/github-readme-stats">
   </div>
