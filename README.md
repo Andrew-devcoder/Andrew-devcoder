@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 
 <div>
-<a href="https://github.com/M0nday0001">
+<a href="https://beacons.ai/M0nday0001">
   <img height="180em" src="https://github-readme-stats.vercel.app/apim0nday0001=anuraghazra" />
   </div>
