@@ -1,8 +1,8 @@
 ### Hola 👋
 <div align="center">
   <a href="https://github.com/m0nday0001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m0nday0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0nday0001&layout=compact&langs_count=7&theme=radical"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=m0nday0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0nday0001&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   
