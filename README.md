@@ -32,6 +32,6 @@
   
 
 
-![Snake animation](https://github.com/m0nday0001/Andrew-devcoder/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Andrew-devcoder/blob/output/github-contribution-grid-snake.svg)
  
 </div>
