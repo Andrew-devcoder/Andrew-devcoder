@@ -1,9 +1,9 @@
 ### Hola 👋
 
 <div align="center">
-  <a href="https://github.com/planate">
-  <img height="160em" src="https://stats-planate.vercel.app/api?username=planate&PAT_1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://stats-planate.vercel.app/api/top-langs/?username=planate&PAT_1&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/Andrew-devcoder">
+  <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api?username=Andrew-devcoder&PAT_1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api/top-langs/?username=Andrew-devcoder&PAT_1&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -36,17 +36,17 @@
 </div>
 
 
-
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Andrew-devcoder/Andrew-devcoder/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/Andrew-devcoder/Andrew-devcoder/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/Andrew-devcoder/Andrew-devcoder/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-
+</picture>
