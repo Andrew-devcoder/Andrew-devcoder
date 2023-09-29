@@ -29,7 +29,11 @@
   <a href="https://www.linkedin.com/in/andrew-kovpak-front-end-developer" target="_blank"><img align="right"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/andrewkovpak" target="_blank"><img align="right"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Andreveloper" target="_blank"><img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  
+
+
+
+ 
+</div>
 
 
 <picture>
@@ -37,5 +41,3 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
- 
-</div>
