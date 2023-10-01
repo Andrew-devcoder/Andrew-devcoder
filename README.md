@@ -20,7 +20,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,gulp,npm,figma,vscode)](https://skillicons.dev) 
 
 </div>
-  ##
+
+  ###
  
 <div> 
   <a href = "mailto:andrew.kovpak.01@gmail.com"><img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
