@@ -17,7 +17,8 @@
   <img align="center" alt="Rafa-npm" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
   <img align="center" alt="Rafa-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
   
- <-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,scss,js)](https://skillicons.dev) 
+
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,scss,js" />
   </a>
