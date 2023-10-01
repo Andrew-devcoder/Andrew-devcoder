@@ -19,10 +19,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js)](https://skillicons.dev) 
 
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js" />
-  </a>
-  
 </div>
   ##
  
