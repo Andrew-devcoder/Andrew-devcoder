@@ -6,9 +6,9 @@
   <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api/top-langs/?username=Andrew-devcoder&PAT_1&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,gulp,yarn,react,vite,npm,figma,vscode)](https://skillicons.dev) 
+<div style="display: inline_block"><br>
 
   <img align="center" alt="Rafa-npm" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
   <img align="center" alt="Rafa-yarn" height="30" width="40" src="https://api.nuget.org/v3-flatcontainer/yarn.msbuild/1.22.5/icon" />
