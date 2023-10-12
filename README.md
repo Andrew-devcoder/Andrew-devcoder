@@ -16,7 +16,7 @@
 <!--   <img align="center" alt="Rafa-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> -->
 <!--   <img align="center" alt="Rafa-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />    -->
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,gulp,yarn,react,npm,figma,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,gulp,yarn,react,vite,npm,figma,vscode)](https://skillicons.dev) 
 
   <img align="center" alt="Rafa-npm" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
 </div>
