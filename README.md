@@ -6,7 +6,7 @@
   <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api/top-langs/?username=Andrew-devcoder&PAT_1&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: block"><br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,gulp,yarn,react,vite,npm,figma,vscode)](https://skillicons.dev) 
 </div>
 
