@@ -12,8 +12,12 @@
 </div>
 
 <div>
+  <div>
   <img align="center" alt="npm" height="25" margin-right="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
+  </div>
+  <div>
   <img align="center" alt="yarn" height="40" src="https://api.nuget.org/v3-flatcontainer/yarn.msbuild/1.22.5/icon" />
+  </div>
 </div>
 
   ##
