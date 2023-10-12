@@ -12,8 +12,8 @@
 </div>
 
 <div>
-  <img align="center" alt="npm" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
-  <img align="center" alt="yarn" height="30" width="" src="https://api.nuget.org/v3-flatcontainer/yarn.msbuild/1.22.5/icon" />
+  <img align="center" alt="npm" height="30" width="" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
+  <img align="center" alt="yarn" height="40" width="" src="https://api.nuget.org/v3-flatcontainer/yarn.msbuild/1.22.5/icon" />
   <img align="center" alt="npm2" height="30" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
 </div>
 
