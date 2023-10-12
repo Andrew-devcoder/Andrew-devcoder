@@ -7,12 +7,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-
-<!--   <img align="center" alt="Rafa-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /> -->
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,gulp,yarn,react,vite,npm,figma,vscode)](https://skillicons.dev) 
 
   <img align="center" alt="Rafa-npm" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
+  <img align="center" alt="Rafa-yarn" height="30" width="40" src="[https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png](https://www.gravatar.com/avatar/b3025c5cc65e605e209f8d2b179df114?s=80&r=g&d=mm)" />
 </div>
 
   ##
