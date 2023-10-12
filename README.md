@@ -12,7 +12,7 @@
 </div>
 
 <div>
-  <div>
+  <div style="display": "inline-bocks">
   <img align="center" alt="npm" height="25" margin-right="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
   </div>
   <div>
