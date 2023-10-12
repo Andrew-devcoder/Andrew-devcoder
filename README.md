@@ -12,8 +12,8 @@
 </div>
 
 <div>
-  <img align="center" alt="npm" height="30" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
-  <img align="center" alt="yarn" height="40" width="" src="https://api.nuget.org/v3-flatcontainer/yarn.msbuild/1.22.5/icon" />
+  <img align="center" alt="npm" height="25" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
+  <img align="center" alt="yarn" height="45" width="" src="https://api.nuget.org/v3-flatcontainer/yarn.msbuild/1.22.5/icon" />
 </div>
 
   ##
