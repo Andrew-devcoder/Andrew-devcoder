@@ -1,5 +1,5 @@
 ### Hola 👋
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 <div align="center">
   <a href="https://github.com/Andrew-devcoder" >
   <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api?username=Andrew-devcoder&PAT_1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
