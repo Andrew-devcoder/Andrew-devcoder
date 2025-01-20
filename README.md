@@ -9,7 +9,7 @@
 
 <div style="display: block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,gulp,yarn,react,vite,npm,figma,vscode)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,taiwild,bootstrap,gulp,yarn,react,vite,npm,figma,vscode)](https://skillicons.dev) 
 </div>
 
 
