@@ -43,4 +43,4 @@
 
 - [Registration](https://andrew-devcoder-react-firebase.netlify.app/login)
   - React js, firebase, tailwind
-  - [repository](https://github.com/Andrew-devcoder/react-firebase-tailwind)
+  - About project - [repository](https://github.com/Andrew-devcoder/react-firebase-tailwind)
