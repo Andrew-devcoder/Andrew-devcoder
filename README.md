@@ -42,6 +42,6 @@
 ## 📂 Projects
 
 ### [Registration](https://andrew-devcoder-react-firebase.netlify.app/login)
-  - **Stack**: React.js, Firebase, Tailwind CSS
-  - **Description**: User registration system with real-time validation and secure Firebase authentication.
-  - [About project](https://github.com/Andrew-devcoder/react-firebase-tailwind)
+  - **Stack**: React.js, Firebase, Tailwind CSS, Redux, Netlify
+  - **Description**: It features a fully functional authentication system, state persistence, and automated user management, built using a modern React stack.
+  - [About project](https://github.com/Andrew-devcoder/authflowx)
