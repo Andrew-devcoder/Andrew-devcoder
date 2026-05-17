@@ -9,7 +9,7 @@
 
 <div style="display: block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,sass,js,ts,tailwind,bootstrap,gulp,yarn,git,gitlab,react,vite,npm,firebase,figma,vscode,netlify,lua,nestjs,postman,postgres,angular,nextjs,docker,kubernetes,linux,debian,nginx,redis)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,tailwind,bootstrap,gulp,yarn,git,gitlab,react,vite,npm,firebase,figma,vscode,netlify,lua,nestjs,postman,postgres,angular,nextjs,docker,kubernetes,linux,debian,nginx,redis)](https://skillicons.dev) 
   
 </div>
 
