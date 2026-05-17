@@ -42,7 +42,36 @@
 
 ## 📂 Projects
 
-### [AuthFlowX](https://andrew-devcoder-authflowx.netlify.app/)
-  - **Stack**: React.js, Firebase, Tailwind CSS, Redux, Netlify
-  - **Description**: It features a fully functional authentication system, state persistence, and automated user management, built using a modern React stack.
-  - [About project](https://github.com/Andrew-devcoder/authflowx)
+# [Iren App](https://iren.andrii-kovpak.dev/)
+
+Iren App is a private calendar web application created for personal workday tracking.
+
+The project was built for my girlfriend, who needed a simple way to record her working days, working hours, and comments for each day. The app also allows exporting monthly information as a PDF file.
+
+Each user must sign in before using the application. This keeps every user's data private and connected to their own account. The data is stored in a database and can be accessed from any device.
+
+## Main Features
+
+- Google authentication
+- Personal calendar for each user
+- Workday and working-hours tracking
+- Daily comments and notes
+- Monthly PDF export
+- Data storage in MongoDB
+- Responsive web interface
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- MongoDB
+- NextAuth / Google Auth
+- Redux Toolkit
+- Docker
+
+## Deployment
+
+The application is deployed through an automated pipeline:
+
+GitHub Actions → Docker image → GHCR.io → Flux → k3s
