@@ -44,6 +44,8 @@
 
 # [Iren App](https://iren.andrii-kovpak.dev/)
 
+[iren.andrii-kovpak.dev](https://iren.andrii-kovpak.dev/)
+
 Iren App is a private calendar web application created for personal workday tracking.
 
 The project was built for my girlfriend, who needed a simple way to record her working days, working hours, and comments for each day. The app also allows exporting monthly information as a PDF file.
